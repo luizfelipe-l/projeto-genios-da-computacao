@@ -1,0 +1,20 @@
+body {
+    background-image: linear-gradient(to right, black, rgb(31, 43, 54));
+}
+
+h1 {
+    color: white;
+    text-align: center;
+    font-family: "Oswald", sans-serif;
+}
+
+img, p {
+    display: block;
+    margin: auto;
+    width: 500px;
+    border-radius: 10px;
+    text-align: center;
+    color: white;
+    font-size: 3em;
+    font-family: "Oswald", sans-serif;
+}
